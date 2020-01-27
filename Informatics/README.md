@@ -3,6 +3,14 @@
 
 ## ЛР-1-2 
 [Лабораторная работа 1-2](https://github.com/patrikeyeva/Institute/blob/master/Informatics/%D0%BB%D0%B0%D0%B1%D0%B0%201-2.docx) - только протокол
+
+## ЛР-5
+`Программирование машин Тьюринга`  
+**Вариант №26:**  
+Проверить палиндромию двоичного числа.  
+
+[Лабораторная работа 5](https://github.com/patrikeyeva/Institute/blob/master/Informatics/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%20%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B02(%D0%BB%D0%B0%D0%B1%D0%B0).docx) - только код программы 
+
 ## ЛР-6
 `Конструирование диаграмм Тьюринга`  
 **Вариант №14:**  
